@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+DonTarken+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Open-Source+Creator+%26+Builder+%E2%9A%A1;Passionate+about+clean+and+fast+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=60A5FA&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+DonTarken+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Game+Localization+%26+Modding+%F0%9F%8E%AE;Open-Source+Creator+%26+Builder+%E2%9A%A1" alt="Typing SVG" />
 
   <p align="center">
-    🚀 <b>Passionate developer from France 🇫🇷 crafting useful, fast, and modern open-source tools.</b><br>
-    Creator of <a href="https://github.com/DonTarken/motrix-plugin-alldebrid"><b>AllDebrid Resolver for Motrix</b></a>.
+    🚀 <b>Passionate developer & creator from France 🇫🇷 crafting useful, fast, and open-source projects.</b><br>
+    Creator of <a href="https://github.com/DonTarken/motrix-plugin-alldebrid"><b>Motrix AllDebrid Resolver</b></a> & <a href="https://github.com/DonTarken/loco-motive-patch-fr"><b>Loco Motive Patch FR</b></a>.
   </p>
 
   <p align="center">
@@ -19,14 +19,14 @@
 
 ---
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
 
 <div align="center">
 
-| ⚡ **[Motrix AllDebrid Resolver](https://github.com/DonTarken/motrix-plugin-alldebrid)** |
-| :--- |
-| **High-performance autonomous extension for Motrix 2.0+**<br>Automatically unblocks and downloads supported links (1fichier, Rapidgator, etc.) through AllDebrid at full gigabit speed (~100+ MB/s). |
-| [![Release](https://img.shields.io/github/v/release/DonTarken/motrix-plugin-alldebrid?style=flat-square&color=blue)](https://github.com/DonTarken/motrix-plugin-alldebrid/releases/latest) [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/DonTarken/motrix-plugin-alldebrid/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/DonTarken/motrix-plugin-alldebrid/pulls) |
+| ⚡ **[Motrix AllDebrid Resolver](https://github.com/DonTarken/motrix-plugin-alldebrid)** | 🚂 **[Loco Motive — Patch Français](https://github.com/DonTarken/loco-motive-patch-fr)** |
+| :--- | :--- |
+| **High-performance extension for Motrix 2.0+**<br>Automatically unblocks and accelerates host downloads (1fichier, Rapidgator, etc.) through AllDebrid at full gigabit speed (~100+ MB/s). | **Traduction française intégrale de Loco Motive**<br>Patch de localisation complet (textes, dialogues, énigmes et interface) pour le jeu d'aventure point & click acclamé par la critique. |
+| [![Release](https://img.shields.io/github/v/release/DonTarken/motrix-plugin-alldebrid?style=flat-square&color=blue)](https://github.com/DonTarken/motrix-plugin-alldebrid/releases/latest) [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/DonTarken/motrix-plugin-alldebrid/blob/main/LICENSE) | [![Game](https://img.shields.io/badge/Jeu-Loco%20Motive-orange?style=flat-square)](https://github.com/DonTarken/loco-motive-patch-fr) [![Lang](https://img.shields.io/badge/Patch-Fran%C3%A7ais%20100%25-blue?style=flat-square)](https://github.com/DonTarken/loco-motive-patch-fr) |
 
 </div>
 
@@ -65,7 +65,7 @@
 
 ### ☕ Support My Open-Source Work
 
-If you find my projects and tools helpful, consider supporting their development and ongoing maintenance:
+If you find my projects, tools, or game localizations helpful, consider supporting their development and ongoing maintenance:
 
 <p align="center">
   <a href="https://ko-fi.com/dontarken" target="_blank">
