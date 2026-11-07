@@ -1,0 +1,74 @@
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+DonTarken+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Open-Source+Creator+%26+Builder+%E2%9A%A1;Passionate+about+clean+and+fast+tools" alt="Typing SVG" />
+
+  <p align="center">
+    🚀 <b>Passionate developer from France 🇫🇷 crafting useful, fast, and modern open-source tools.</b><br>
+    Creator of <a href="https://github.com/DonTarken/motrix-plugin-alldebrid"><b>AllDebrid Resolver for Motrix</b></a>.
+  </p>
+
+  <p align="center">
+    <a href="https://ko-fi.com/dontarken" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-Support%20my%20work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
+    &nbsp;
+    <a href="https://github.com/DonTarken?tab=repositories"><img src="https://img.shields.io/badge/Repositories-34+-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Location-Toulon%2C%20France-10B981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  </p>
+
+</div>
+
+---
+
+### 🌟 Featured Project
+
+<div align="center">
+
+| ⚡ **[Motrix AllDebrid Resolver](https://github.com/DonTarken/motrix-plugin-alldebrid)** |
+| :--- |
+| **High-performance autonomous extension for Motrix 2.0+**<br>Automatically unblocks and downloads supported links (1fichier, Rapidgator, etc.) through AllDebrid at full gigabit speed (~100+ MB/s). |
+| [![Release](https://img.shields.io/github/v/release/DonTarken/motrix-plugin-alldebrid?style=flat-square&color=blue)](https://github.com/DonTarken/motrix-plugin-alldebrid/releases/latest) [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/DonTarken/motrix-plugin-alldebrid/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/DonTarken/motrix-plugin-alldebrid/pulls) |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DonTarken&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DonTarken GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonTarken&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonTarken&theme=tokyonight&hide_border=true&background=0D1117" alt="DonTarken Streak" />
+</div>
+
+---
+
+### ☕ Support My Open-Source Work
+
+If you find my projects and tools helpful, consider supporting their development and ongoing maintenance:
+
+<p align="center">
+  <a href="https://ko-fi.com/dontarken" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="42" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</p>
