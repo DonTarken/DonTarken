@@ -47,28 +47,16 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonTarken&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DonTarken GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonTarken&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonTarken&theme=tokyonight&hide_border=true&background=0D1117" alt="DonTarken Streak" />
-</div>
-
----
-
 ### ☕ Support My Open-Source Work
 
 If you find my projects, tools, or game localizations helpful, consider supporting their development and ongoing maintenance:
 
 <p align="center">
+  <a href="https://github.com/sponsors/DonTarken" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="38" alt="Sponsor on GitHub" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://ko-fi.com/dontarken" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="42" alt="Buy Me a Coffee at ko-fi.com" />
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="38" alt="Buy Me a Coffee at ko-fi.com" />
   </a>
 </p>
