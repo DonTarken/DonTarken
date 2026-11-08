@@ -8,9 +8,9 @@
   </p>
 
   <p align="center">
-    <a href="https://ko-fi.com/dontarken" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-Support%20my%20work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
+    <a href="https://github.com/sponsors/DonTarken" target="_blank"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="GitHub Sponsors" /></a>
     &nbsp;
-    <a href="https://github.com/DonTarken?tab=repositories"><img src="https://img.shields.io/badge/Repositories-34+-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+    <a href="https://ko-fi.com/dontarken" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-Support%20my%20work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
     &nbsp;
     <img src="https://img.shields.io/badge/Location-Toulon%2C%20France-10B981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
