@@ -25,10 +25,19 @@
 
 | ⚡ **[Motrix AllDebrid Resolver](https://github.com/DonTarken/motrix-plugin-alldebrid)** | 🚂 **[Loco Motive — Patch Français](https://github.com/DonTarken/loco-motive-patch-fr)** |
 | :--- | :--- |
-| **High-performance extension for Motrix 2.0+**<br>Automatically unblocks and accelerates host downloads (1fichier, Rapidgator, etc.) through AllDebrid at full gigabit speed (~100+ MB/s). | **Traduction française intégrale de Loco Motive**<br>Patch de localisation complet (textes, dialogues, énigmes et interface) pour le jeu d'aventure point & click acclamé par la critique. |
-| [![Release](https://img.shields.io/github/v/release/DonTarken/motrix-plugin-alldebrid?style=flat-square&color=blue)](https://github.com/DonTarken/motrix-plugin-alldebrid/releases/latest) [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/DonTarken/motrix-plugin-alldebrid/blob/main/LICENSE) | [![Game](https://img.shields.io/badge/Jeu-Loco%20Motive-orange?style=flat-square)](https://github.com/DonTarken/loco-motive-patch-fr) [![Lang](https://img.shields.io/badge/Patch-Fran%C3%A7ais%20100%25-blue?style=flat-square)](https://github.com/DonTarken/loco-motive-patch-fr) |
+| **Official plugin for Motrix 2.0+** *(Available in the official Motrix store & on [motrix.app](https://motrix.app))*<br>Automatically unblocks and accelerates host downloads (1fichier, Rapidgator, etc.) through AllDebrid at full gigabit speed (~100+ MB/s). | **Traduction française intégrale de Loco Motive**<br>Patch de localisation complet (textes, dialogues, énigmes et interface) pour le jeu d'aventure point & click acclamé par la critique. |
+| [![Motrix Store](https://img.shields.io/badge/Motrix%20Registry-Official%20Plugin-00D26A?style=flat-square&logo=electron&logoColor=white)](https://motrix.app) [![Release](https://img.shields.io/github/v/release/DonTarken/motrix-plugin-alldebrid?style=flat-square&color=blue)](https://github.com/DonTarken/motrix-plugin-alldebrid/releases/latest) [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/DonTarken/motrix-plugin-alldebrid/blob/main/LICENSE) | [![Game](https://img.shields.io/badge/Jeu-Loco%20Motive-orange?style=flat-square)](https://github.com/DonTarken/loco-motive-patch-fr) [![Lang](https://img.shields.io/badge/Patch-Fran%C3%A7ais%20100%25-blue?style=flat-square)](https://github.com/DonTarken/loco-motive-patch-fr) |
 
 </div>
+
+---
+
+### 🤝 Open-Source Contributions
+
+- **[agalwood/Motrix](https://github.com/agalwood/Motrix)**: Modern desktop & headless download manager.
+  - Investigated and root-caused SQLite finalize journal cascade deletion ([#2523](https://github.com/agalwood/Motrix/issues/2523), resolved in PR [#2524](https://github.com/agalwood/Motrix/pull/2524)).
+- **[motrixapp/plugin-registry](https://github.com/motrixapp/plugin-registry)**: Official Motrix 2.0 Extension Directory.
+  - Creator of the official `community.alldebrid-resolver` plugin ([PR #10](https://github.com/motrixapp/plugin-registry/pull/10)).
 
 ---
 
